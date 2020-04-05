@@ -1,3 +1,3 @@
-# Data-structures-and-algorithms
+# Data-Structures-and-Algorithms
 
-Studying Algorithms and Data Structures Patterns
+Studying Algorithms and Data Structure Patterns
